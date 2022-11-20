@@ -1,0 +1,37 @@
+#div{
+    text-align: center;
+    color: #fff;
+    padding: 5% 0;
+}
+form{
+    background-color: rgb(212, 171, 47, 0.9);
+    border-radius: 0.5em;
+    padding:  1% ;
+    
+    margin: 2%; 
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: flex-end;
+}
+form #btn{
+    margin-bottom: 1% ;
+   border-radius: 0.3em;
+   padding: 0 1%;
+    background-color: rgb(212, 171, 47); ;
+}
+form .choix{
+    
+   margin:  2% 0; 
+}
+label{
+
+    color:#ffffff;
+    font-size: 1em;
+    flex-basis: 100%;
+   }
+.result{
+    margin: 2%;
+  padding: 1%;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 0.5em;
+}
